@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cancion_web", "cancion_web\cancion_web.csproj", "{AF52DBC9-7F83-4B53-93DB-C66D9C1F6131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF52DBC9-7F83-4B53-93DB-C66D9C1F6131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF52DBC9-7F83-4B53-93DB-C66D9C1F6131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF52DBC9-7F83-4B53-93DB-C66D9C1F6131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF52DBC9-7F83-4B53-93DB-C66D9C1F6131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716E6F46-8E65-440A-B78A-EDB5C20C4061}
+	EndGlobalSection
+EndGlobal
