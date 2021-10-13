@@ -18,7 +18,5 @@ namespace cancion_web.Models
         [StringLength(100, MinimumLength = 10 , ErrorMessage ="la longitud de {0} debe estar entre {2} y {1}")]
         public string enlace { get; set; }
         
-
-
     }
 }
